@@ -1,5 +1,3 @@
 # Status — V1
-Original local design structurally checked; prior publish blocked by GitHub integration 403. Retry on 2026-11-26 successfully created test ROM commit 7877a95e45a2b49b41b0b4ad853d06b91d1e75fc. This release replaces that temporary ROM and publishes the complete modular policy, subject to confirmed branch update/readback.
-Registry inventory pending; owner permits public non-sensitive metadata.
-Independent fresh-agent behavioral evaluation not run. This is an instruction system, not a running autonomous service.
-Next: verify release and seed inventory; install full ROM, then cold-boot test.
+Bootloader published on main in 287a15487c8bb8fedf72adf5cc060d55bd96bc9a. All 29 initial files present in commit metadata; seven key files fetched at pinned SHA; ROM 1474 chars, 30 scenario definitions. Public metadata registry seeded from authenticated calls to all visible linked accounts (10 GitHub/7 Vercel/7 Supabase). 46 repositories, 13 Vercel entries, 9 Supabase entries; nine documented project purposes including bootloader. Remaining purposes, quotas, team scopes and actual integrations need targeted verification. 
+Independent fresh-agent test not run; instruction layer is not a background agent. Next install ROM from main, then cold-boot and project-specific discovery. See [verification.md](verification.md).

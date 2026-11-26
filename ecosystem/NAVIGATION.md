@@ -1,2 +1,2 @@
 # Ecosystem navigation
-[REGISTRY.md](REGISTRY.md) defines authorized public metadata and schema. Read [DISCOVERY](../protocols/DISCOVERY.md) before collecting. Inventory will link accounts, projects and services with observed evidence and gaps.
+[REGISTRY.md](REGISTRY.md) defines public metadata authority and schema. [ACCOUNTS.md](ACCOUNTS.md) lists observed connection counts. [PROJECTS.md](PROJECTS.md) lists all observed repositories and inspected purpose summaries. [INFRASTRUCTURE.md](INFRASTRUCTURE.md) lists observed Vercel/Supabase resources and candidate relationships. Read [DISCOVERY](../protocols/DISCOVERY.md) before collecting or using the snapshot; refresh exact scope before actions.
