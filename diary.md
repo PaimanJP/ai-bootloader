@@ -1,0 +1,3 @@
+# Diary
+2026-11-26 — Designed full orchestration locally; discovered public visibility and write capability mismatch. First tree and file writes denied (403). Local archive provided.
+2026-11-26 — User asked retry and explicitly permitted public repository. Actual file write succeeded (7877a95e45a2b49b41b0b4ad853d06b91d1e75fc). Revised policy permits non-sensitive ecosystem metadata without secret disclosure. Complete modular release replaces the temporary ROM. Next: verify remote, seed registry, then fresh agent test.

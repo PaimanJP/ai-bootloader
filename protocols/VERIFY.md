@@ -1,0 +1,7 @@
+# Verification and definition of done
+Translate each approved requirement into observable acceptance checks: normal, boundary, errors, permission, persistence, integration, mobile/accessibility if applicable. Use actual project commands from manifest/docs/CI; isolated fixtures, no irreversible real actions. If no execution tool, static review only, list unrun command and limitation. Source existence, compile, mocked tests, functional tests and production evidence are distinct.
+Evidence: ID, requirement/task, exact SHA or diff, environment, date, method/command, input conditions redacted, result pass/fail/blocked/not_run, artifact/link, limits. Capture failures/retries. Relevant code/config changes invalidate old checks. Do not claim coverage beyond actual tests.
+
+Completion checklist: scope and diff; tests and acceptance; secrets/permissions; updated affected context and navigation; verify commit/ref and actual release asset; report branch/SHA, CI, deployment separately. Production verified only by authorized checks against correct live release, no destructive tests. Successful deployment not proof of business functionality.
+
+Independent onboarding: new context receives repo URL + boot ROM + access, no chat hints. Ask purpose/non-goals, architecture, approved decisions/active plan, implementation evidence, verification gaps, historic conflict, next task, environment and safe workflow. Score with exact paths/revision; all critical authority/env/safety must pass, >=90% other answers. Fix navigation and retest. Same-session reasoning is rehearsal only.

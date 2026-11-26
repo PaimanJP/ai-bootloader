@@ -1,0 +1,2 @@
+# Ecosystem navigation
+[REGISTRY.md](REGISTRY.md) defines authorized public metadata and schema. Read [DISCOVERY](../protocols/DISCOVERY.md) before collecting. Inventory will link accounts, projects and services with observed evidence and gaps.

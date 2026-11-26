@@ -1,0 +1,11 @@
+# Repository navigation
+- [AGENTS.md](AGENTS.md): authority, entrypoint and reading order.
+- [BOOT.md](BOOT.md): state machine, capability check and task routing.
+- [BOOT-ROM.txt](BOOT-ROM.txt): exact initial prompt.
+- [protocols/](protocols/NAVIGATION.md): kernel, runtime and modules.
+- [ecosystem/](ecosystem/NAVIGATION.md): registry schema and refresh rules.
+- [templates/](templates/NAVIGATION.md): project onboarding and knowledge record shapes.
+- [tests/](tests/NAVIGATION.md): scenario suite and validator.
+- [decided.md](decided.md), [plan.md](plan.md), [status.md](status.md): active intent, work and snapshot.
+- [verification.md](verification.md), [diary.md](diary.md): evidence and history.
+- [archive/](archive/NAVIGATION.md): inactive rules, never automatic current authority.

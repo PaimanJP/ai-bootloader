@@ -1,0 +1,3 @@
+# Protocol navigation
+Always load [KERNEL](KERNEL.md) and [RUNTIME](RUNTIME.md); dispatch via [BOOT](../BOOT.md).
+[DISCOVERY](DISCOVERY.md) inventories resources; [INITIALIZE](INITIALIZE.md) new projects and retrofit; [SERVICES](SERVICES.md) provider-specific operations; [WISDOM](WISDOM.md) reconstructs knowledge; [MAINTENANCE](MAINTENANCE.md) propagates context; [VERIFY](VERIFY.md) acceptance and evidence; [RECOVERY](RECOVERY.md) concurrency, failures and policy evolution.

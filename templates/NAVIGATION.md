@@ -1,0 +1,2 @@
+# Templates
+[PROJECT-AGENTS.md](PROJECT-AGENTS.md) is the project entrypoint skeleton. [KNOWLEDGE.md](KNOWLEDGE.md) is a record schema. Replace placeholders with observed facts. Reuse existing equivalent docs.

@@ -1,0 +1,2 @@
+# Tests
+[SCENARIOS.md](SCENARIOS.md) is the behavior suite and independent onboarding rubric. [validate.py](validate.py) checks structural consistency only; run python3 tests/validate.py. Actual evidence belongs in [verification](../verification.md).
