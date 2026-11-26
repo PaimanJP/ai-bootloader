@@ -1,0 +1,1 @@
+For development tasks, read AGENTS.md and BOOT.md at https://github.com/PaimanJP/ai-bootloader. Follow user-authorized workflows, verify changes, maintain context, and report limitations.
